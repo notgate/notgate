@@ -47,8 +47,8 @@
 <details open>
   <p align="center">
      <br>
-  <a href="https://github.com/ZeraTS/Eden" title="XAML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeraTS&repo=Eden&bg_color=191622&title_color=DA68AB&text_color=fff&layout=compact">
+  <a href="https://github.com/organizations/hyperion" title="XAML">
+    <img src="https://cdn.discordapp.com/attachments/780958889356820510/824833866887331853/77079437.png">
   </a>
     <summary>
       Organizations
