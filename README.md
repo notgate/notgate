@@ -16,7 +16,8 @@
   </a>
   <h1 align="center"></h1>
 </p>
-<p align="center">
+<details open>
+  <p align="center">
   <a href="https://www.tutorialspoint.com/xaml/index.htm" title="XAML">
     <img src="https://cdn.discordapp.com/attachments/780958889356820510/824814012679716885/output-onlinepngtools1.png">
   </a>
@@ -28,3 +29,4 @@
   </a>
   <h1 align="center"></h1>
 </p>
+</details>
