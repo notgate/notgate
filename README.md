@@ -22,7 +22,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ZeraTS&theme=omni&show_icons=true">
   </a>
   <a href="https://www.w3schools.com/html/" title="HTML">
-    <img src="https://cdn.discordapp.com/attachments/780958889356820510/824814458311278663/output-onlinepngtools2.png">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeraTS&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats">
   </a>
     <a href="https://www.w3schools.com/css/" title="CSS">
     <img src="https://cdn.discordapp.com/attachments/780958889356820510/824814880489078796/output-onlinepngtools3.png">
