@@ -28,6 +28,7 @@
   </summary>
 </p>
 </details>
+<p align="center">
 <details open>
    <p align="center">
      <br>
