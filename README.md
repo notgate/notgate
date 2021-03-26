@@ -18,7 +18,7 @@
 </p>
 <details open>
   <p align="center">
-  <a href="https://www.tutorialspoint.com/xaml/index.htm" title="XAML">
+  <a href="https://github-readme-stats.vercel.app/api?username=ZeraTS&theme=omni&show_icons=true" title="XAML">
     <img src="https://github-readme-stats.vercel.app/api?username=ZeraTS&theme=omni&show_icons=true">
   </a>
  
