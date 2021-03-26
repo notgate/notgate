@@ -31,7 +31,7 @@
 <details closed>
    <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=ZeraTS&theme=omni&show_icons=true" title="XAML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeraTS&repo=Eden&bg_color=3d3345&title_color=e376df&text_color=e376df&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeraTS&repo=Eden&bg_color=2d2433&title_color=e376df&text_color=e376df&layout=compact">
   </a>
      
   <summary>
