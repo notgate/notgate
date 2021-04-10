@@ -1,6 +1,6 @@
 <h3 align="center"> Github Introduction </h2>
 <p align="center">
-  <a> 2 repositories so far 🤟 </a>
+  <a> 5 repositories so far 🤟 </a>
   <br>
   <a2> I like UI design 😅 </a2>
 </p>
@@ -36,6 +36,9 @@
   </a>
    <a href="https://github.com/ZeraTS/AuthGGMaterialAdminPanel" title="XAML">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeraTS&repo=AuthGGMaterialAdminPanel&bg_color=191622&title_color=DA68AB&text_color=fff&layout=compact">
+  </a>
+    <a href="https://github.com/ZeraTS/GuidetotheCommunity" title="XAML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeraTS&repo=GuidetotheCommunity&bg_color=191622&title_color=DA68AB&text_color=fff&layout=compact">
   </a>
          
      
