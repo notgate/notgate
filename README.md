@@ -36,10 +36,3 @@
     Repositories
   </summary>
 </details>
-<p align="center">
-<details closed>
-    <summary>
-      Organizations
-    </summary>
-</details>
-<p align="center">
