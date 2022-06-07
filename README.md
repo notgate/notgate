@@ -25,15 +25,8 @@
 <p align="center">
 <details open>
      <br>
-  <a href="https://github.com/ZeraTS/Eden" title="XAML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeraTS&repo=Eden&bg_color=191622&title_color=DA68AB&text_color=fff&layout=compact">
-  </a>
    <a href="https://github.com/ZeraTS/AuthGGMaterialAdminPanel" title="XAML">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeraTS&repo=AuthGGMaterialAdminPanel&bg_color=191622&title_color=DA68AB&text_color=fff&layout=compact">
-  </a>
-    <a href="https://github.com/ZeraTS/GuidetotheCommunity" title="XAML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeraTS&repo=GuidetotheCommunity&bg_color=191622&title_color=DA68AB&text_color=fff&layout=compact">
-  </a>
   <a href="https://github.com/ZeraTS/Pognapse" title="XAML">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeraTS&repo=Pognapse&bg_color=191622&title_color=DA68AB&text_color=fff&layout=compact">
   </a>
