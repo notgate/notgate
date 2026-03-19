@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ZeraTS&theme=tokyo-night&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=ZeraTS&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0f172a&border=1e3a5f&ring=3b82f6&fire=60a5fa&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=3b82f6&sideLabels=94a3b8&dates=475569&stroke=1e3a5f" />
 </div>
 
 <br>
