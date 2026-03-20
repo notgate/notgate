@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e99,100:f43f5e00&height=140&section=header&text=ZeraTS&fontColor=f43f5e&fontSize=44&fontAlignY=70&desc=security%20%C2%B7%20web%20%C2%B7%20.net&descAlignY=85&descSize=16&fontFamily=JetBrains+Mono&descFontFamily=JetBrains+Mono" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e40,100:f43f5e00&height=140&section=header&text=ZeraTS&fontColor=f43f5e&fontSize=44&fontAlignY=70&desc=security%20%C2%B7%20web%20%C2%B7%20.net&descAlignY=85&descSize=16&fontFamily=JetBrains+Mono&descFontFamily=JetBrains+Mono" width="100%" />
 </div>
 
 <br>
@@ -20,6 +20,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeraTS&bg_color=0f172a&color=f43f5e&line=f43f5e&point=fb7185&area_color=f43f5e&area=true&hide_border=true&hide_title=true" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e00,100:f43f5e99&height=80&section=footer" width="100%" />
-</div>
+
